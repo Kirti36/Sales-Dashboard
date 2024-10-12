@@ -2,6 +2,9 @@
 
 This repository contains a **Power BI Desktop** report that provides detailed insights into the sales performance of a Superstore across various dimensions like categories, shipping modes, sub-categories, and regional distribution.
 
+![image](https://github.com/Kirti36/Sales-Dashboard/blob/main/sales%20%20.jpg)
+
+
 ## Key Insights:
 
 1. **Sales by Category**:  
@@ -49,6 +52,9 @@ This repository contains a **Power BI Desktop** report that provides detailed in
 - Year-over-year trends in monthly sales and profit
 - State-wise and regional sales breakdown
 - Sales by segment and payment modes
+
+  ![image](https://github.com/Kirti36/Sales-Dashboard/blob/main/forcasting.jpg)
+
 
 
 
