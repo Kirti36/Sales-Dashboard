@@ -1,4 +1,3 @@
-The PDF you provided seems to be a Power BI report, visualizing various sales insights. To document this for your GitHub repository, you can follow this structure:
 
 ---
 
@@ -46,5 +45,3 @@ This repository contains a **Power BI Desktop** sales analysis report, providing
 To replicate this analysis or explore the data further, you can download the `.pbix` file and open it with **Power BI Desktop**. You can also connect the report to live datasets for real-time analysis.
 
 ---
-
-This documentation includes the key findings from the report, giving a clear overview of what the visualizations reveal. It also explains how to replicate and interact with the data. You can adapt this to suit the details or goals of your project.
